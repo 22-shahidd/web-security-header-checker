@@ -9,8 +9,6 @@ Created on Sun Jun 14 17:54:56 2026
 
 A Python-based command-line tool that scans websites for missing HTTP security headers and generates a detailed security audit report.
 
-Built as part of my cybersecurity learning journey during my Ethical Hacking training at EyeQ Dot Net Pvt. Ltd.
-
 ---
 
 ## What It Does
